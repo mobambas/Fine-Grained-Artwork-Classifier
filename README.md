@@ -1,7 +1,7 @@
 # AI-and-ML
-Model trained on the the detection of forgery in artworks via the means of Machine Learning.
+_Model trained on the the detection of forgery in artworks via the means of Machine Learning._
 
-ABSTRACT: This project aims at the identification of art paintings by using machine learning. In today's world,
+**ABSTRACT:** This project aims at the identification of art paintings by using machine learning. In today's world,
 computers are advancing faster than ever and more and more applications of machine learning have been explored, like
 computer vision. We have identified this problem statement as relevant and challenging. Currently, the detection of forgery
 in museums is done by examining the painting in detail by an art expert. Ongoing research on automated art

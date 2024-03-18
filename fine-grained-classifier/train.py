@@ -54,7 +54,7 @@ if __name__ == '__main__':
 
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
-    model = FineGrainedClassifier(num_classes=num_artists).to(device)
+    model = FineGrainedClassifier(num_classes=195).to(device)
     criterion = nn.CrossEntropyLoss()
     optimizer = optim.SGD(model.parameters(), lr=0.001, momentum=0.9)
 
